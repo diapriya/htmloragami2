@@ -1,0 +1,65 @@
+.heading{
+    color: limegreen;
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-between;
+}
+
+.teddy{
+    float: left;
+    background-color:lemonchiffon;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 30%;
+}
+
+.cicada{
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 280px
+}
+
+.panda{
+
+    float: left;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 290px;
+}
+
+.pigeon{
+    float: left;
+    background-color: lightpink;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 30%;
+}
+
+.chameleon{
+    float: left;
+    background-color: thistle;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 50%;
+}
+
+.camel{
+    background-color: coral;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 30%;
+}
